@@ -1,0 +1,11 @@
+ai-explorer/
+├── models/
+│   └── mixtral/
+│       ├── inference.py      # Your Flask endpoint
+│       └── requirements.txt  # Dependencies
+├── ui/
+│   └── components/
+│       └── MixtralInterface.jsx
+├── docs/
+│   └── mixtral-integration.md
+└── README.md                 # Updated with Mixtral section
